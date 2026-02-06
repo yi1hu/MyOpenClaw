@@ -1,0 +1,13 @@
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/controller/GenController.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityUtils.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/service/GenTableColumnServiceImpl.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableService.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/service/GenTableServiceImpl.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/util/VelocityInitializer.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableColumnService.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/config/GenConfig.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableMapper.java
+/workspaces/MyOpenClaw/ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTableColumn.java
